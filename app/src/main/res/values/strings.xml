@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AuthApp</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="jenis">Jenis</string>
+    <string name="textview">Textview</string>
+    <string name="txt_update">Update</string>
+    <string name="txt_yes">Yes</string>
+</resources>
